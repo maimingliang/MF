@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MF.iml" filepath="$PROJECT_DIR$/MF.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httputils/httputils.iml" filepath="$PROJECT_DIR$/httputils/httputils.iml" />
       <module fileurl="file://$PROJECT_DIR$/mcode/mcode.iml" filepath="$PROJECT_DIR$/mcode/mcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/qqdemo/qqdemo.iml" filepath="$PROJECT_DIR$/qqdemo/qqdemo.iml" />
     </modules>
